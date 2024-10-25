@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.hw6_geeks.R;
 
 public class MainActivity extends AppCompatActivity {
-
+//dwadwa
     private TextView textView;
     private Button buttonHidden;
     private String input = "";
